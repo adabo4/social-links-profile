@@ -84,7 +84,7 @@ body {
     font-family: var(--text-primary);
     font-size: var(--text-preset-2-size);
     line-height: var(--text-preset-2-line-height);
-    font-weight: var(--text-preset-2-bold);
+    font-weight: var(--text-preset-2-weight);
 }
 
 .links {
