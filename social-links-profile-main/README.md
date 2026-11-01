@@ -8,6 +8,10 @@ This is my solution to the [Social Links Profile challenge on Frontend Mentor](h
 
 Build a responsive social links profile card that matches the provided design, including hover and focus states for interactive elements.
 
+### Screenshot
+
+![](/screenshot/screenshot-desktop.png)
+
 ### Links
 
 - Live Site: [View Project](https://adabo4.github.io/social-links-profile/)
